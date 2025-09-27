@@ -42,12 +42,6 @@ A simple, lightweight, and interactive **Task Manager Web App** built with **HTM
 
 ---
 
-## 🖼️ Screenshots
-
-*(Add screenshots of your app here for better presentation.)*  
-
----
-
 ## 🛠️ Technologies Used
 - **HTML5** – Structure  
 - **CSS3** – Styling and layout  
