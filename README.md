@@ -21,9 +21,9 @@ A simple, lightweight, and interactive **Task Manager Web App** built with **HTM
 
 ## 📂 Project Structure
 ```
-├── taskmanger.html          # Main HTML file
-├── taskmanagerscript.js     # JavaScript logic
-├── taskmanagerstyles.css    # Stylesheet (UI & layout)
+├── index.html          # Main HTML file
+├── script.js     # JavaScript logic
+├── styles.css    # Stylesheet (UI & layout)
 ```
 
 ---
