@@ -64,6 +64,3 @@ A simple, lightweight, and interactive **Task Manager Web App** built with **HTM
 - [W3Schools – HTML & CSS](https://www.w3schools.com/)  
 
 ---
-
-## 👨‍💻 Author
-Developed with ❤️ using Vanilla JavaScript.
